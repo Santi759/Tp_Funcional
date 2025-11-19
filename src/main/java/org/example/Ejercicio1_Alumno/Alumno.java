@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Ejercicio1_Alumno;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

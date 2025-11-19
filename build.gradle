@@ -4,7 +4,7 @@ plugins {
 }
 
 application{
-    mainClass = 'org.example.Main'
+    mainClass = 'org.example.Ejercicio1_Alumno.Main'
 }
 
 group = 'org.example'
